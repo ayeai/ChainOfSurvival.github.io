@@ -11,7 +11,6 @@ If the patient has no breathing or no pulse, you need to immediately take action
 
 ## How to do?
 TBD: Please update the following section with training videos
-{% youtube sGXK9O5801Y %}
 
 ## Hands only CPR
 See [American Heart Association's resources](https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr)
