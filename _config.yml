@@ -1,2 +1,15 @@
 theme: jekyll-theme-leap-day
 languages: ["en", "hi", "bn", "te", "de", "fr"]
+
+gems:
+ - jekyll-feed
+ - jekyll-redirect-from
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ - jekyll-avatar
+ - jemoji
+ - jekyll-mentions
+ - jekyll-include-cache
+ - jekyll-multiple-languages-plugin
+ - jekyll-paginate
+ - youtube
