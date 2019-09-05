@@ -67,12 +67,12 @@ This site is provided **for academic purposes only**. The content presented here
 
 ## Media source
 CC-SA licensed images from the following links have been used. Please follow specific links for details
-https://commons.wikimedia.org/wiki/File:Atrial_Fibrillation.jpg
-https://commons.wikimedia.org/wiki/File:CPR_Adult_Jaw_Thrust.png
-https://commons.wikimedia.org/wiki/File:CPR_Adult_Airway.png
-https://commons.wikimedia.org/wiki/File:CPR_Adult_Chest_Compression_2.png
-https://commons.wikimedia.org/wiki/File:CPR_Adult_Chest_Compression_Sternum.png
-https://commons.wikimedia.org/wiki/File:Handshake_logo.svg
+[Image 1](https://commons.wikimedia.org/wiki/File:Atrial_Fibrillation.jpg)
+[Image 2](https://commons.wikimedia.org/wiki/File:CPR_Adult_Jaw_Thrust.png)
+[Image 3](https://commons.wikimedia.org/wiki/File:CPR_Adult_Airway.png)
+[Image 4](https://commons.wikimedia.org/wiki/File:CPR_Adult_Chest_Compression_2.png)
+[Image 5](https://commons.wikimedia.org/wiki/File:CPR_Adult_Chest_Compression_Sternum.png)
+[Image 6](https://commons.wikimedia.org/wiki/File:Handshake_logo.svg)
 
 
 ### Privacy Policy
