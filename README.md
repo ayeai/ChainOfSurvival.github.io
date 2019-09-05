@@ -46,5 +46,4 @@ This initiative is supported by at least the following organizations
 ## Disclaimer
 This site is provided for academic purposes only. The content presented here may not be accurate and must be ratified by a qulified physician prior to use.
 
-
-![Fibrillation - image from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/3/34/Atrial_Fibrillation.png)
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Handshake_logo.svg/1000px-Handshake_logo.svg.png)
