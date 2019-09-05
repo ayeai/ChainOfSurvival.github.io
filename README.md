@@ -62,3 +62,12 @@ This initiative is supported by at least the following organizations
 This site is provided **for academic purposes only**. The content presented here may not be accurate and **must be ratified by a qulified physician prior to use**. Please note - any information provided here immediately becomes public, hence please do not submit any private information. This page may have been machine translated and hence we cannot guarantee accuracy of contents.
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Handshake_logo.svg/1000px-Handshake_logo.svg.png)
+
+## Media source
+CC-SA licensed images from the following links have been used. Please follow specific links for details
+https://commons.wikimedia.org/wiki/File:Atrial_Fibrillation.jpg
+https://commons.wikimedia.org/wiki/File:CPR_Adult_Jaw_Thrust.png
+https://commons.wikimedia.org/wiki/File:CPR_Adult_Airway.png
+https://commons.wikimedia.org/wiki/File:CPR_Adult_Chest_Compression_2.png
+https://commons.wikimedia.org/wiki/File:CPR_Adult_Chest_Compression_Sternum.png
+https://commons.wikimedia.org/wiki/File:Handshake_logo.svg/1000px-Handshake_logo.svg.png
