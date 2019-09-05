@@ -8,7 +8,7 @@ Please see disclaimers below.
 Format: Country 2 letter code,ZIP/PIN,Organization,Contact info (will become public)
 
 ## India
-IN,500033,AyeAI,(no contact provided)
+IN,500033,AyeAI,[website](https://ayeai.xyz/site)
 
 
 -----------------------------------------
