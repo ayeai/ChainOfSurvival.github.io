@@ -1,6 +1,16 @@
+Please see disclaimers below.
 
-# [Home](https://chainofsurvival.github.io)
-Disclaimer: The people listed on this page may not be medical practitioners
+DO NOT edit above this line
+
+# Volunteers
+Format: Country 2 letter code,ZIP/PIN,Name,Contact info (will become public)
+
+## India
+IN,500075,Abhishek Choudhary,@obonac
+
+Do NOT edit below this line
+
+## Disclaimer: The people listed on this page may not be medical practitioners
 This is only a list of volunteers
 
 You are free to not include your contact information, but inclusion will imply
@@ -29,9 +39,4 @@ langauges as long as the translation is submitted back to this site.
 
 All other rights, including the right to translate are reserved.
 
-DO NOT edit above this line
-
-# Volunteers
-Format: Country 2 letter code,ZIP/PIN,Name,Contact info (will become public)
-## India
-IN,500075,Abhishek Choudhary,@obonac
+# [Home](https://chainofsurvival.github.io)
