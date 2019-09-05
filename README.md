@@ -58,13 +58,24 @@ This initiative is supported by at least the following organizations
 
 [Volunteers](volunteers.md)
 
-## Disclaimer / Privacy Policy
+## Disclaimers
+
+### Academic Purposes only
 This site is provided **for academic purposes only**. The content presented here may not be accurate and **must be ratified by a qulified physician prior to use**. Please note - any information provided here immediately becomes public, hence please do not submit any private information. This page may have been machine translated and hence we cannot guarantee accuracy of contents.
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Handshake_logo.svg/1000px-Handshake_logo.svg.png)
 
-Disclaimer: The people listed on this page may not be medical practitioners
-This is only a list of volunteers
+## Media source
+CC-SA licensed images from the following links have been used. Please follow specific links for details
+https://commons.wikimedia.org/wiki/File:Atrial_Fibrillation.jpg
+https://commons.wikimedia.org/wiki/File:CPR_Adult_Jaw_Thrust.png
+https://commons.wikimedia.org/wiki/File:CPR_Adult_Airway.png
+https://commons.wikimedia.org/wiki/File:CPR_Adult_Chest_Compression_2.png
+https://commons.wikimedia.org/wiki/File:CPR_Adult_Chest_Compression_Sternum.png
+https://commons.wikimedia.org/wiki/File:Handshake_logo.svg
+
+
+### Privacy Policy
 
 You are free to not include your contact information, but inclusion will imply
 your willingness to share the information publicly
@@ -77,39 +88,24 @@ By entering your name on this page you agree to the terms and conditions,
 and indemnify the owners, authors, associated organizations against the 
 effect of your actions.
 
-** Listing on this page is not a qualification or endorsement **
+**Listing on this page is not a qualification or endorsement**
 
 We reserve the right to remove entries from this page, and to make necessary
 diclosures to authorities as and when demanded.
+
+
+### Terms & Conditions
+**The people listed on this page may not be medical practitioners**
+
+_This is only a list of volunteers_
 
 This entire site is under Creative Commons - Share Alike license and may
 not be exploited commercially. The content may be included in commercial 
 offerings as long as the attributions point back to this site
 https://chainofsurvival.github.io
 
-https://creativecommons.org/licenses/by-sa/4.0/deed.en
-
 However, we, the authors grant express rights for translation to new
 langauges as long as the translation is submitted back to this site.
 
-There is no support provided for content delivered on this site.
-
-This site **does not** offer any services, and is for informative purposes only.
-
 All other rights, including the right to translate are reserved.
 
-Any dissemination of information from this site may only be carried out by providing 
-links back to this site. Forking this site from its underlying repository
-provides sufficient linking information for dissemination purposes.
-
-All disputes are subject to the jurisdiction and applicable laws of the land of
-Hon'ble Courts in Hyderabad, Telangana, India only  
-
-## Media source
-CC-SA licensed images from the following links have been used. Please follow specific links for details
-https://commons.wikimedia.org/wiki/File:Atrial_Fibrillation.jpg
-https://commons.wikimedia.org/wiki/File:CPR_Adult_Jaw_Thrust.png
-https://commons.wikimedia.org/wiki/File:CPR_Adult_Airway.png
-https://commons.wikimedia.org/wiki/File:CPR_Adult_Chest_Compression_2.png
-https://commons.wikimedia.org/wiki/File:CPR_Adult_Chest_Compression_Sternum.png
-https://commons.wikimedia.org/wiki/File:Handshake_logo.svg
