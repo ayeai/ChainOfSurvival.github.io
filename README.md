@@ -1,5 +1,5 @@
 # Chain of Survival
-Chain of Survival refers to a series of actions that, properly executed, reduce the mortality associated with cardiac arrest. [see on wikipedia](https://en.wikipedia.org/wiki/Chain_of_survival)
+**Chain of Survival** refers to a series of actions that, properly executed, reduce the mortality associated with cardiac arrest. [see on wikipedia](https://en.wikipedia.org/wiki/Chain_of_survival)
 
 ## Choose your language
 [Hindi](CoS_hi.md)
@@ -11,7 +11,7 @@ If the patient has no breathing or no pulse, you need to immediately take action
 
 ## How to do?
 TBD: Please update the following section with training videos - code needs to be updated to inline videos
-[CPR Training from American Red Cross](https://www.youtube.com/watch?v=pwyOCAt5FNc)
+[Video by Chest, Heart & Stroke Scotland](https://www.youtube.com/watch?v=ozzZVQQTvo4)
 
 ## Hands only CPR
 See [American Heart Association's resources](https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr)
