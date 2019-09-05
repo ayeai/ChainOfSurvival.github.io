@@ -17,7 +17,7 @@ If the patient has no breathing or no pulse, you need to immediately take action
 ## How to do?
 TBD: File needs to be updated to inline videos
 
-![[Video by Chest, Heart & Stroke Scotland](https://www.youtube.com/watch?v=ozzZVQQTvo4)](https://upload.wikimedia.org/wikipedia/commons/c/ca/CPR_Adult_Chest_Compression_Sternum.png)
+[![Video by Chest, Heart & Stroke Scotland](https://upload.wikimedia.org/wikipedia/commons/c/ca/CPR_Adult_Chest_Compression_Sternum.png)](https://www.youtube.com/watch?v=ozzZVQQTvo4)
 
 ## Hands only CPR
 See [American Heart Association's resources](https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr)
