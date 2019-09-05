@@ -37,6 +37,15 @@ TBD: The trainers' list needs updates with information about local resources
 ## Translate and disseminate
 Please help translate and spread awareness about the Chain of Survival in your language.
 
+## Why on github?
+1. The site opens by itself - no need for github knowledge
+
+2. Github allows a platform for controlled attributable contributions
+
+3. The code for translations is also hosted publically
+
+4. It does not cost hosting money and avoids being percieved as marketing material
+
 ## Licence
 This document is distributed under the CC-SA licence. Media and other pages may have other licence terms and conditions. Please refer to those when using material from this site or repository for preparing awareness campaigns.
 
