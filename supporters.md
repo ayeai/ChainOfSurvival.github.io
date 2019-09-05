@@ -1,3 +1,5 @@
+[Home](https://chainofsurvival.github.io)
+
 Please see disclaimers below.
 
 **DO NOT** edit above this line
@@ -48,4 +50,4 @@ langauges as long as the translation is submitted back to this site.
 
 All other rights, including the right to translate are reserved.
 
-# [Home](https://chainofsurvival.github.io)
+[Home](https://chainofsurvival.github.io)
