@@ -10,7 +10,8 @@ If the patient has no breathing or no pulse, you need to immediately take action
 2. Start CPR
 
 ## How to do?
-TBD: Please update the following section with training videos
+TBD: Please update the following section with training videos - code needs to be updated to inline videos
+[CPR Training from American Red Cross](https://www.youtube.com/watch?v=pwyOCAt5FNc)
 
 ## Hands only CPR
 See [American Heart Association's resources](https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr)
