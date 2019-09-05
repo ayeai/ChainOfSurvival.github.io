@@ -43,9 +43,13 @@ This document is distributed under the CC-SA licence. Media and other pages may 
 ## Supporters
 This initiative is supported by at least the following organizations
 
-List you organization here
+[List you organization here with www link](supporters.md)
 
-## Disclaimer
-This site is provided for academic purposes only. The content presented here may not be accurate and must be ratified by a qulified physician prior to use.
+## Volunteers
+
+[Volunteers](volunteers.md)
+
+## Disclaimer / Privacy Policy
+This site is provided **for academic purposes only**. The content presented here may not be accurate and **must be ratified by a qulified physician prior to use**. Please note - any information provided here immediately becomes public, hence please do not submit any private information. This page may have been machine translated and hence we cannot guarantee accuracy of contents.
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Handshake_logo.svg/1000px-Handshake_logo.svg.png)
