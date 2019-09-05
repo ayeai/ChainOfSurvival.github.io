@@ -1,6 +1,6 @@
 Please see disclaimers below.
 
-DO NOT edit above this line
+**DO NOT** edit above this line
 
 # Volunteers
 Format: Country 2 letter code,ZIP/PIN,Name,Contact info (will become public)
@@ -10,13 +10,13 @@ IN,500075,Abhishek Choudhary,@obonac
 
 
 -----------------------------------------
-Do NOT edit below this line
------------------------------------------
+**DO NOT** edit below this line
 
 ## Disclaimers
 ### Privacy Policy
 ### Terms & Conditions
-** The people listed on this page may not be medical practitioners **
+**The people listed on this page may not be medical practitioners**
+
 _This is only a list of volunteers_
 
 You are free to not include your contact information, but inclusion will imply
@@ -30,7 +30,7 @@ By entering your name on this page you agree to the terms and conditions,
 and indemnify the owners, authors, associated organizations against the 
 effect of your actions.
 
-** Listing on this page is not a qualification or endorsement **
+**Listing on this page is not a qualification or endorsement**
 
 We reserve the right to remove entries from this page, and to make necessary
 diclosures to authorities as and when demanded.
