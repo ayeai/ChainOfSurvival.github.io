@@ -8,11 +8,14 @@ Format: Country 2 letter code,ZIP/PIN,Name,Contact info (will become public)
 ## India
 IN,500075,Abhishek Choudhary,@obonac
 
+
+-----------------------------------------
 Do NOT edit below this line
+-----------------------------------------
 
 ## Disclaimers
-## Privacy Policy
-## Terms & Conditions
+### Privacy Policy
+### Terms & Conditions
 ** The people listed on this page may not be medical practitioners **
 _This is only a list of volunteers_
 
