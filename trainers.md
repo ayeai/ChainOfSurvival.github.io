@@ -4,11 +4,11 @@ Please see disclaimers below.
 
 **DO NOT** edit above this line
 
-# Supporting organizations
+# Training organizations
 Format: Country 2 letter code,ZIP/PIN,Organization,Contact info (will become public)
 
 ## India
-IN,500033,AyeAI,[website](https://ayeai.xyz/site)
+IN,PIN,ALERT,[website](https://site)
 
 
 -----------------------------------------
