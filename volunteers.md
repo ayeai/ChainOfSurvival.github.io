@@ -10,8 +10,11 @@ IN,500075,Abhishek Choudhary,@obonac
 
 Do NOT edit below this line
 
-## Disclaimer: The people listed on this page may not be medical practitioners
-This is only a list of volunteers
+## Disclaimers
+## Privacy Policy
+## Terms & Conditions
+** The people listed on this page may not be medical practitioners **
+_This is only a list of volunteers_
 
 You are free to not include your contact information, but inclusion will imply
 your willingness to share the information publicly
