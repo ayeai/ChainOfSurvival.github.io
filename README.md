@@ -11,7 +11,8 @@ If the patient has no breathing or no pulse, you need to immediately take action
 ### 1. Call for an ambulance
 ### 2. Lay the patient down
 ### 3. Tilt head, lift chin
-![Tilt head lift chin](https://upload.wikimedia.org/wikipedia/commons/a/aa/CPR_Adult_Airway.png)
+![tilt head](https://upload.wikimedia.org/wikipedia/commons/6/63/CPR_Adult_Jaw_Thrust.png)
+![lift chin](https://upload.wikimedia.org/wikipedia/commons/a/aa/CPR_Adult_Airway.png)
 ### 4. Start chest compressions
 ![Chest compressions](https://upload.wikimedia.org/wikipedia/commons/9/9a/CPR_Adult_Chest_Compression_2.png)
 ### 5. Use AED if available and you know how to use it
@@ -41,7 +42,8 @@ This document is distributed under the CC-SA licence. Media and other pages may 
 
 ## Supporters
 This initiative is supported by at least the following organizations
-[supporters](supporters.md)
+
+List you organization here
 
 ## Disclaimer
 This site is provided for academic purposes only. The content presented here may not be accurate and must be ratified by a qulified physician prior to use.
