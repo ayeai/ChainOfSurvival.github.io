@@ -10,11 +10,13 @@ If the patient has no breathing or no pulse, you need to immediately take action
 2. Start CPR
 
 ## How to do?
-TBD: Please update the following section with training videos - code needs to be updated to inline videos
+TBD: File needs to be updated to inline videos
+
 [Video by Chest, Heart & Stroke Scotland](https://www.youtube.com/watch?v=ozzZVQQTvo4)
 
 ## Hands only CPR
 See [American Heart Association's resources](https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr)
+
 Please help provide this content in your language
 
 ## Translate and disseminate
@@ -29,3 +31,5 @@ This initiative is supported by the following organizations
 
 ## Disclaimer
 This site is provided for academic purposes only. The content presented here may not be accurate and must be ratified by a qulified physician prior to use.
+
+![Fibrillation - image from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/3/34/Atrial_Fibrillation.png)
